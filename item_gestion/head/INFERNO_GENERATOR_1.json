@@ -1,0 +1,45 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§9Inferno Minion I",
+  "nbttag": "{ExtraAttributes:{id:\"INFERNO_GENERATOR_1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b04c9788-efa1-371d-aed1-37b5aabc8fa0\",Properties:{textures:[0:{Name:\"textures\",Signature:\"rw/11WuaCx1CQPT5GOfbiCfrG97YrTrz/prSBpbDQ3D1ona0ihoErta8dSS8qHbZEqeVcponfXs0ShGyqHzfIUtl9YhoV28hYSSxNviaIy0kLO86qvyCbXl7xg4AqvEEHGc7nOYFU6YbXeZK+NOpFFYRGdA6xjv7g6TwMT9rMbG6x0HE1lYb9onKqjgA99xaqncZ9OtuUzYnDCd8JFj54Hv12mw+35S0Qz6SCoddKMBAVmUGtldcvAf10ebJ+qNfJgWqDouTzZp4SOyMGLo9SzqDZuYVo2Hc4xLfcS79W13UlnGYzHPmA7G4FcISGs2WPgBh0yjsJSSnbxEcomoUZvOO8+e4/ZLAYjYU3RDoe3i54qEuNOG4dWvgDzBHzHf7DoTnTcKuL/XbsuasKCGGtZ28c33CeDShqp2d9qoEgFzEj8aPz43SpGcao+Jy6hhHQuv2lkYsjY95YxE6SOi+C4ozNh8VXcwanLVOlePW+Iwx6e1qWKkEhQ3yUhDVSAtlXKEVpdQjpG5hon2oHTCE7lcNKulc8b482n29KmPFdyrMzXV6C7QxJ1pKj83V6DOb4bBtrGDjmrlR0PZCvxf7rBLrMf6jV8JRUlPE7avOL0tTGg1h0KAcFnTTcWocpr98+USC3oAnhyi79uIjIFrwtAChPG7oCdyTh8M3iBqweSg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NTY0NTgwMzkyNSwKICAicHJvZmlsZUlkIiA6ICI0NGNlMmMwZTFjNTM0ZDhmYmExNmNkNDhlYjkyYTUxZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WGlyYW56dThYeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NjVjNTQzNjZmODhmYjMyODBiMWMzZmM1MDBjZTJiNzk5YzhkZDMyN2FiNmQ0MWM5YmM5NTk0ODhmNWNmZDkyIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Place this minion and it will start\",1:\"§7generating and slaying Infernals!\",2:\"§7Minions also work when you are\",3:\"§7offline!\",4:\"\",5:\"§6Ability: Rising Celsius\",6:\"§7Each Inferno minion increases the\",7:\"§7speed of ALL Inferno minions by §a18%§7,\",8:\"§7up to §a180%§7.\",9:\"\",10:\"§7Time Between Actions: §a1,013s\",11:\"§7Max Storage: §e64\",12:\"§7Resources Generated: §b0\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Inferno Minion I\"}}",
+  "damage": 3,
+  "lore": [
+    "§7Place this minion and it will start",
+    "§7generating and slaying Infernals!",
+    "§7Minions also work when you are",
+    "§7offline!",
+    "",
+    "§6Ability: Rising Celsius",
+    "§7Each Inferno minion increases the",
+    "§7speed of ALL Inferno minions by §a18%§7,",
+    "§7up to §a180%§7.",
+    "",
+    "§7Time Between Actions: §a1,013s",
+    "§7Max Storage: §e64",
+    "§7Resources Generated: §b0",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "INFERNO_GENERATOR_1",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Blaze Slayer III",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion",
+    "https://wiki.hypixel.net/Inferno_Minion_I"
+  ],
+  "recipe": {
+    "A1": "DERELICT_ASHE:10",
+    "A2": "DERELICT_ASHE:10",
+    "A3": "DERELICT_ASHE:10",
+    "B1": "DERELICT_ASHE:10",
+    "B2": "BLAZE_GENERATOR_1:1",
+    "B3": "DERELICT_ASHE:10",
+    "C1": "DERELICT_ASHE:10",
+    "C2": "DERELICT_ASHE:10",
+    "C3": "DERELICT_ASHE:10"
+  },
+  "slayer_req": "BLAZE_3",
+  "img": "data:image/png;base64,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"
+}

@@ -1,0 +1,128 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§6The Professor (Boss)",
+  "nbttag": "{ench:[],HideFlags:254,SkullOwner:{Id:\"ce828875-25a2-3b03-9304-5f665c6279a6\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5MjI2MzAwNzU0MCwKICAicHJvZmlsZUlkIiA6ICJkYTQ5OGFjNGU5Mzc0ZTVjYjYxMjdiMzgwODU1Nzk4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaXRyb2hvbGljXzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTk3MWNlZThiODMzYTYyZmMyYTYxMmYzNTAzNDM3ZmRmOTNjYWQ2OTJkMjE2YjhjZjkwYmJiMDUzOGM0N2RkOCIKICAgIH0KICB9Cn0\"}]}},display:{Lore:[0:\"§7The Professor is the boss of Floor 3 of the Catacombs.\",1:\"§7He is a 'Professor' and has three phases. In the 1st he\",2:\"§7spawns 4 Guardians and creates a barrier. After they are\",3:\"§7killed, he attacks the player. Once he is at 25% health,\",4:\"§7he will merge with his guardians and continue to fight.\",5:\"\",6:\"§c❤ Health§8: §c3,000.000\",7:\"§c❤ Health §8(MM): §c600.000.000\"],Name:\"§6The Professor (Boss)\"},ExtraAttributes:{id:\"PROFESSOR_BOSS\"}}",
+  "damage": 3,
+  "lore": [
+    "§7The Professor is the boss of Floor 3 of the Catacombs.",
+    "§7He is a 'Professor' and has three phases. In the 1st he",
+    "§7spawns 4 Guardians and creates a barrier. After they are",
+    "§7killed, he attacks the player. Once he is at 25% health,",
+    "§7he will merge with his guardians and continue to fight.",
+    "",
+    "§c❤ Health§8: §c3,000.000",
+    "§c❤ Health §8(MM): §c600.000.000"
+  ],
+  "internalname": "PROFESSOR_BOSS",
+  "clickcommand": "",
+  "modver": "2.1.0-REL",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/The_Professor",
+    "https://wiki.hypixel.net/The_Professor"
+  ],
+  "crafttext": "",
+  "recipes": [
+    {
+      "name": "§cThe Professor",
+      "render": "@neurepo:mobs/the_professor.json",
+      "panorama": "dungeon",
+      "type": "drops",
+      "drops": [
+        {
+          "id": "ADAPTIVE_HELMET",
+          "chance": "1.21%",
+          "extra": [
+            "§e§lChest Price: §6500,000 coins"
+          ]
+        },
+        {
+          "id": "ADAPTIVE_CHESTPLATE",
+          "chance": "0.69%",
+          "extra": [
+            "§e§lChest Price: §62,000,000 coins"
+          ]
+        },
+        {
+          "id": "ADAPTIVE_LEGGINGS",
+          "chance": "0.69%",
+          "extra": [
+            "§e§lChest Price: §61,000,000 coins"
+          ]
+        },
+        {
+          "id": "ADAPTIVE_BOOTS",
+          "chance": "1.21%",
+          "extra": [
+            "§e§lChest Price: §6250,000 coins"
+          ]
+        },
+        {
+          "id": "SUSPICIOUS_VIAL",
+          "chance": "3.03%",
+          "extra": [
+            "§e§lChest Price: §61,000,000 coins"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "§cThe Professor (Master Mode)",
+      "render": "@neurepo:mobs/the_professor.json",
+      "panorama": "dungeon",
+      "type": "drops",
+      "drops": [
+        {
+          "id": "ADAPTIVE_HELMET",
+          "chance": "5.08%",
+          "extra": [
+            "§e§lChest Price: §6500,000 coins"
+          ]
+        },
+        {
+          "id": "ADAPTIVE_CHESTPLATE",
+          "chance": "1.3%",
+          "extra": [
+            "§e§lChest Price: §62,000,000 coins"
+          ]
+        },
+        {
+          "id": "ADAPTIVE_LEGGINGS",
+          "chance": "2.39%",
+          "extra": [
+            "§e§lChest Price: §61,000,000 coins"
+          ]
+        },
+        {
+          "id": "ADAPTIVE_BOOTS",
+          "chance": "5.08%",
+          "extra": [
+            "§e§lChest Price: §6250,000 coins"
+          ]
+        },
+        {
+          "id": "SUSPICIOUS_VIAL",
+          "chance": "12.49%",
+          "extra": [
+            "§e§lChest Price: §61,000,000 coins"
+          ]
+        },
+        {
+          "id": "FIRST_MASTER_STAR",
+          "chance": "2.6%",
+          "extra": [
+            "§e§lChest Price: §65,000,000 coins"
+          ]
+        },
+        {
+          "id": "MASTER_SKULL_TIER_3",
+          "chance": "7.94%",
+          "extra": [
+            "§e§lChest Price: §62,000,000 coins"
+          ]
+        }
+      ]
+    }
+  ],
+  "img": "data:image/png;base64,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"
+}

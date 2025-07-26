@@ -1,0 +1,50 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§aMutated Blaze (Monster)",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"118fe834-28aa-3b0d-afe6-f0c52d01afe8\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ\"}]}},display:{Lore:[0:\"§7They started the fire.\",1:\"\",2:\"§c❤ Health§8: §c1,500,000\"],Name:\"§aMutated Blaze (Monster)\"},ExtraAttributes:{id:\"MUTATED_BLAZE_MONSTER\"}}",
+  "damage": 3,
+  "lore": [
+    "§7They started the fire.",
+    "",
+    "§c❤ Health§8: §c1,500,000"
+  ],
+  "internalname": "MUTATED_BLAZE_MONSTER",
+  "clickcommand": "viewrecipe",
+  "modver": "2.1.0-REL",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Mutated_Blaze",
+    "https://wiki.hypixel.net/Mutated_Blaze"
+  ],
+  "crafttext": "",
+  "recipes": [
+    {
+      "level": 70,
+      "coins": 20,
+      "xp": 60,
+      "combat_xp": 75,
+      "name": "§fMutated Blaze",
+      "type": "drops",
+      "panorama": "crimson_isle",
+      "render": "Blaze",
+      "extra": [],
+      "drops": [
+        {
+          "id": "BLAZE_ROD:1",
+          "extra": [],
+          "chance": "x2-3"
+        },
+        {
+          "id": "MUTATED_BLAZE_ASHES:1",
+          "extra": [],
+          "chance": "20%"
+        },
+        {
+          "id": "DYE_CYCLAMEN",
+          "chance": "0.00001%"
+        }
+      ]
+    }
+  ],
+  "img": "data:image/png;base64,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"
+}

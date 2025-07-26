@@ -1,0 +1,40 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§9Enderman Minion I",
+  "nbttag": "{ExtraAttributes:{id:\"ENDERMAN_GENERATOR_1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5a8f2068-aadc-3bd3-bbad-770759233c4e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oa7q2wztpKePhIkWed0NlEZdwTDTPAlUieu2BDKOg8DU6Dge1uhGgzmP3FzdSp99gzvv+jx5WxMBBucdfr3YubVb1cawVtEAHHTgE3uJ/30ifKRzGs9cToymrwWkKO9p+Kf2x3JyPNxqHpMP54wUJA49KgufcAP49ApBmz/sGnw0IiKLeu1vNrTpM6LoVIA8i6cC2fqPumadRIncWf1hMZp//HcoatH+C8n9qTnOnh417GpiE2FfFgNh95EXFJ6ukkFbBRSAho+kxltYq/1fN2j1/DJ/6mVw2sGC7GGiwGK8M+2VEeKO2t4OAqhqM6FtlpL9fG3BuzCDO8ED1b7OkmMm+xj5IxQM6iMYiRF1BC+Yc9fHnZC5qhSU4fkwhKSH0aZDfTy3ujSY1Minc4T/vPGS6ff5YABFD+zs/3bBsByb+0jyfz6v9E8BGFuBAFZeMNb257QTdU+B8JuDJNco/RcFgOLAHc/aQQWDjKH6b2xpAnPblJh/LgivqigWWZJKUHRPzzsgCpOJ2Xa2ndpobWcq6jhpLNi1Cp2zp3WFAjeEe0ac942xnGQRGqENvTKkqJc7Xkm+kxAvf+DqFf6cTm9tmD4cpywKgy/70sznfT2AqBp3ascoBSE8qsFSkq7wO/DQYkFc8tcfe0MrTXMteLuXpByh9X0EtGhkmyosmqQ=\",Value:\"eyJ0aW1lc3RhbXAiOjE1NTc5MTk1NDkxODMsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQ2MGQyMGJhMWU5Y2QxZDRjZmQ2ZDVmYjAxNzlmZjQxNTk3YWM2ZDI0NjFiZDdjY2RiNThiMjAyOTFlYzQ2ZSJ9fX0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Place this minion and it will start\",1:\"§7generating and slaying Endermen!\",2:\"§7Minions also work when you are\",3:\"§7offline!\",4:\"\",5:\"§7Time Between Actions: §a32s\",6:\"§7Max Storage: §e64\",7:\"§7Resources Generated: §b0\",8:\"\",9:\"§9§lRARE\"],Name:\"§9Enderman Minion I\"}}",
+  "damage": 3,
+  "lore": [
+    "§7Place this minion and it will start",
+    "§7generating and slaying Endermen!",
+    "§7Minions also work when you are",
+    "§7offline!",
+    "",
+    "§7Time Between Actions: §a32s",
+    "§7Max Storage: §e64",
+    "§7Resources Generated: §b0",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "ENDERMAN_GENERATOR_1",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Ender Pearl I",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Enderman_Minion",
+    "https://wiki.hypixel.net/Enderman_Minion_I"
+  ],
+  "recipe": {
+    "A1": "ENDER_PEARL:8",
+    "A2": "ENDER_PEARL:8",
+    "A3": "ENDER_PEARL:8",
+    "B1": "ENDER_PEARL:8",
+    "B2": "WOOD_SWORD:1",
+    "B3": "ENDER_PEARL:8",
+    "C1": "ENDER_PEARL:8",
+    "C2": "ENDER_PEARL:8",
+    "C3": "ENDER_PEARL:8"
+  },
+  "useneucraft": true,
+  "img": "data:image/png;base64,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"
+}

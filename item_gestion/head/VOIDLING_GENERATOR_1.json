@@ -1,0 +1,40 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§9Voidling Minion I",
+  "nbttag": "{ExtraAttributes:{id:\"VOIDLING_GENERATOR_1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d54385e7-315c-39ba-96b1-610ef60da822\",Properties:{textures:[0:{Name:\"textures\",Signature:\"PKyPy02pnptv+2JVEQHr+SXthVJTIaibiH4reZRS8Xv7Y3M1KJIY+QbxXgYb5h7xBKR/SUzAdPfiQpc2ylfT7sG6gvEC2SiQNiJkkgAtR/C4joqAQS/Wny6C5fUcQFayOLQ/E4UrVEX25AxKeOzEZ1lZWwNa5zUvH8igKgtbt605ZsygRN/2D3P+lc6Ho4Rb33pP6cFJw5R5goTOAy3wI3+0cS37rTUw1S1EcMZPUiXwYoZ72GxK30qrGrJQWhdQmQSWY9o8tYEUeLZpyHYAIp6LGn+5b6mEISHETayzcMdC02yljUV8CgqsLY/Y/CDahgzUN/bRLXCFFBdVnNx1PWa2LfE5XcdC8uW8y4+IEmHn/EgVIYQA8I1xiHb4nuQmUt/6gL8G5PmQGFS46eu1GHa2VdzeM1uOZuIMPWux+/GGVi40Mq1v0eTrwOhjXX7c4yBHJZ/yiPM8rVYWakDueSp3oObeOVwVBn5Ep26xXuQwLAptTIOGiwCj4uVk/K14XAZETdYMHUBvKEneaaaI9ZnnZGNJ1IE/u7LaN5tNBrq14q/DcTvoN4scxENUDye6ehLRtsqVrUvPBNP7NtFomXe6EWhg/q5J1isUkWf7k1gKLmYdty/kFcLaO9k880lwDoPAVxrvlDmqPi0oUCzItLhM3jMpX4HjygPhb+IAdD8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxOTQ0OTYyMTExOCwKICAicHJvZmlsZUlkIiA6ICJlNGUxYmY5NzMwZWI0NDRhYmIyOGIxODgxN2Q0M2YzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSU1PR0FNRVMwMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhODUxZWQyY2U1YzJjMDUyM2FmNzcyZDIwNmQ5NTU1ZTJlMTM4M2VjODc5NDZlNmZmNGM1MTE4NmUyOWVmN2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Place this minion and it will start\",1:\"§7generating and slaying Voidlings!\",2:\"§7Minions also work when you are\",3:\"§7offline!\",4:\"\",5:\"§7Time Between Actions: §a45s\",6:\"§7Max Storage: §e64\",7:\"§7Resources Generated: §b0\",8:\"\",9:\"§9§lRARE\"],Name:\"§9Voidling Minion I\"}}",
+  "damage": 3,
+  "lore": [
+    "§7Place this minion and it will start",
+    "§7generating and slaying Voidlings!",
+    "§7Minions also work when you are",
+    "§7offline!",
+    "",
+    "§7Time Between Actions: §a45s",
+    "§7Max Storage: §e64",
+    "§7Resources Generated: §b0",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "VOIDLING_GENERATOR_1",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Voidling_Minion",
+    "https://wiki.hypixel.net/Voidling_Minion_I"
+  ],
+  "recipe": {
+    "A1": "NULL_SPHERE:10",
+    "A2": "NULL_SPHERE:10",
+    "A3": "NULL_SPHERE:10",
+    "B1": "NULL_SPHERE:10",
+    "B2": "ENDERMAN_GENERATOR_1:1",
+    "B3": "NULL_SPHERE:10",
+    "C1": "NULL_SPHERE:10",
+    "C2": "NULL_SPHERE:10",
+    "C3": "NULL_SPHERE:10"
+  },
+  "slayer_req": "EMAN_4",
+  "img": "data:image/png;base64,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"
+}

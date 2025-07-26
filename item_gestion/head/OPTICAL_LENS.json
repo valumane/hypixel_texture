@@ -1,0 +1,40 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§9Optical Lens",
+  "nbttag": "{ExtraAttributes:{id:\"OPTICAL_LENS\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"313555be-f416-34d5-bafa-22266fcb159d\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdmMTZiZDQ1N2VkMjc3MTYwMGQyMmFiMDkwZDYyOTAzMDQ1NTcxMTg3Y2VkMzRlNGYwNDNhMGZhMGJhMjExNCJ9fX0K\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Reforge Anvil\",2:\"\",3:\"§7Applies the §9Precise §7reforge when\",4:\"§7combined with a bow.\",5:\"\",6:\"§8§oThis vicious material can sometimes\",7:\"§8§obe found on the floor of The\",8:\"§8§oCatacombs.\",9:\"\",10:\"§9Precise §7(§6Legendary§7):\",11:\"§7Strength: §c+25\",12:\"§7Crit Chance: §c+13%\",13:\"§7Crit Damage: §c+50%\",14:\"\",15:\"§9Precise Bonus\",16:\"§7Deal §a+10% §7extra damage when\",17:\"§7arrows hit the head of a mob.\",18:\"\",19:\"§7Requires §aMining Skill Level XXII§7!\",20:\"\",21:\"§9§lRARE REFORGE STONE\"],Name:\"§9Optical Lens\"}}",
+  "damage": 3,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Reforge Anvil",
+    "",
+    "§7Applies the §9Precise §7reforge when",
+    "§7combined with a bow.",
+    "",
+    "§8§oThis vicious material can sometimes",
+    "§8§obe found on the floor of The",
+    "§8§oCatacombs.",
+    "",
+    "§9Precise §7(§6Legendary§7):",
+    "§7Strength: §c+25",
+    "§7Crit Chance: §c+13%",
+    "§7Crit Damage: §c+50%",
+    "",
+    "§9Precise Bonus",
+    "§7Deal §a+10% §7extra damage when",
+    "§7arrows hit the head of a mob.",
+    "",
+    "§7Requires §aMining Skill Level XXII§7!",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "OPTICAL_LENS",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Optical_Lens",
+    "https://wiki.hypixel.net/Optical_Lens"
+  ],
+  "img": "data:image/png;base64,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"
+}

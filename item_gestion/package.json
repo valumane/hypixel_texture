@@ -1,0 +1,18 @@
+{
+  "name": "item-gestion",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "item gestion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "prismarine-nbt": "^2.7.0",
+    "puppeteer": "^24.11.2"
+  }
+}

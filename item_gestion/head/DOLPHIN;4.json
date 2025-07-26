@@ -1,0 +1,52 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§7[Lvl {LVL}] §6Dolphin",
+  "nbttag": "{overrideMeta:1b,HideFlags:254,SkullOwner:{Id:\"48f53ffe-a3f0-3280-aac0-11cc0d6121f4\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmZTdkODAzYTQ1YWEyYWYxOTkzZGYyNTQ0YTI4ZGY4NDlhNzYyNjYzNzE5YmZlZmM1OGJmMzg5YWI3ZjUifX19\"}]}},display:{Lore:[0:\"§8Fishing Pet\",1:\"\",2:\"§7Sea Creature Chance: §c{SEA_CREATURE_CHANCE}%\",3:\"§7Intelligence: §a{INTELLIGENCE}\",4:\"\",5:\"§6Pod Tactics\",6:\"§7§7Grants §b+{0}☂ Fishing Speed\",7:\"§b§7for each player within §a30\",8:\"§a§7blocks, up to §a5 §7players.\",9:\"\",10:\"§6Echolocation\",11:\"§7§7Grants §3+{3}α Sea Creature\",12:\"§3Chance§7.\",13:\"\",14:\"§6Splash Surprise\",15:\"§7§7Stun sea creatures for §a5s\",16:\"§a§7after fishing them up.\",17:\"\",18:\"§7§eRight-click to add this pet to\",19:\"§eyour pet menu!\",20:\"\",21:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Dolphin\"},ExtraAttributes:{petInfo:\"{\\\"type\\\":\\\"DOLPHIN\\\",\\\"active\\\":false,\\\"exp\\\":0,\\\"tier\\\":\\\"LEGENDARY\\\",\\\"hideInfo\\\":false,\\\"candyUsed\\\":0}\",id:\"DOLPHIN;4\"},AttributeModifiers:[]}",
+  "damage": 3,
+  "lore": [
+    "§8Fishing Pet",
+    "",
+    "§7Sea Creature Chance: §c{SEA_CREATURE_CHANCE}%",
+    "§7Intelligence: §a{INTELLIGENCE}",
+    "",
+    "§6Pod Tactics",
+    "§7§7Grants §b+{0}☂ Fishing Speed",
+    "§b§7for each player within §a30",
+    "§a§7blocks, up to §a5 §7players.",
+    "",
+    "§6Echolocation",
+    "§7§7Grants §3+{3}α Sea Creature",
+    "§3Chance§7.",
+    "",
+    "§6Splash Surprise",
+    "§7§7Stun sea creatures for §a5s",
+    "§a§7after fishing them up.",
+    "",
+    "§7§eRight-click to add this pet to",
+    "§eyour pet menu!",
+    "",
+    "§6§lLEGENDARY"
+  ],
+  "internalname": "DOLPHIN;4",
+  "clickcommand": "",
+  "modver": "2.4.0",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Dolphin_Pet",
+    "https://wiki.hypixel.net/Dolphin_Pet"
+  ],
+  "crafttext": "",
+  "recipes": [
+    {
+      "type": "katgrade",
+      "coins": 50000000,
+      "time": 1209600,
+      "input": "DOLPHIN;3",
+      "output": "DOLPHIN;4",
+      "items": [
+        "ENCHANTED_RAW_FISH:16"
+      ]
+    }
+  ],
+  "img": "data:image/png;base64,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"
+}
