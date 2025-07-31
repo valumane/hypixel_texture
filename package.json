@@ -15,7 +15,7 @@
     "cheerio": "^1.1.2",
     "node-fetch": "^3.3.2",
     "prismarine-nbt": "^2.7.0",
-    "puppeteer": "^24.11.2",
+    "puppeteer": "^24.15.0",
     "xml2js": "^0.6.2"
   }
 }
